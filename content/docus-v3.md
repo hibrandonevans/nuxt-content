@@ -1,6 +1,7 @@
 ---
 title: Docus, the Comeback
-description: The Nuxt documentation theme and CLI is back with version 3
+description:
+  The Nuxt documentation theme and CLI is back with version 3
   rewritten from the ground up.
 seo:
   title: Docus v3 — The Return of the Nuxt Docs Theme
@@ -17,7 +18,7 @@ authors:
     username: larbish
 ---
 
-We’ve completely rewritten the [Docus](https://docus.dev) theme. Reviving it with a fresh and modern foundation powered by the Nuxt ecosystem and designed by Nuxt UI to offer the best documentation experience.
+Reviving it with a fresh and modern foundation powered by the Nuxt ecosystem and designed by Nuxt UI to offer the best documentation experience.
 
 The goal was simple: take **the best parts of the Nuxt ecosystem** and deliver a documentation theme that’s powerful, elegant and easy to maintain.
 
